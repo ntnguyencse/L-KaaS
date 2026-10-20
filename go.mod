@@ -1,6 +1,6 @@
 module github.com/ntnguyencse/L-KaaS
 
-go 1.19
+go 1.24
 
 require (
 	github.com/alexflint/go-cloudfile v0.0.0-20160110233459-c247335ef4f3
@@ -105,7 +105,7 @@ require (
 	github.com/jonboulle/clockwork v0.2.2 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
-	github.com/klauspost/compress v1.13.6 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/lann/builder v0.0.0-20180802200727-47ae307949d0 // indirect
 	github.com/lann/ps v0.0.0-20150810152359-62de8c46ede0 // indirect
 	github.com/lib/pq v1.10.6 // indirect
